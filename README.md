@@ -1,22 +1,34 @@
-Hi! I’m @yujinak👋 
-Also called Yuji.
-Born and raised in Curitiba, Capital of Paraná State, Brazil.
+## Português
+👋 Olá! 
+Eu sou o **Yuji**! Desenvolvedor FullStack Jr em formação pela EBAC e realizando graduação em Ciência de Dados. Utilizo JavaScript, HTML, CSS, TypeScript, React, Python e outras ferramentas para criar e aprimorar aplicativos, com foco em aplicações Web. 
 
-In 2017, I graduated in Architecture and Urbanism at PUCPR (Brazil).
-But since 2023, I'm transitioning my carrer to the Tech field!
-More specifically, to the Web Development Area 👉🏽👨🏽‍💻
+Estou cursando o Ciência de Dados na Descomplica Faculdade Digital, onde aprendo a analisar, visualizar e interpretar dados de diversas fontes e setores. 
 
-That's why you can see some projects in JavaScript, HTML & CSS!
-But also, other ones made in Java and other languages😉
+Meu objetivo é combinar minhas habilidades de desenvolvimento web com meus conhecimentos de ciência de dados para criar soluções inovadoras e eficientes para problemas reais. 
 
-I'm looking for my first job in this field, so if we can collaborate, please reach me!
+Também sou formado em Arquitetura e Urbanismo pela PUCPR, e tenho experiência em projetos de construção sustentável, concursos de arquitetura e workshops de capacitação. 
 
-Check out my LinkedIn: https://www.linkedin.com/in/gabrielyujinakashima/
+Sou fluente em português, inglês e espanhol, e tenho certificação em japonês, com vivência de intercâmbios no exterior, em Sucre (Bolívia), e Okinawa (Japão). Sou apaixonado por aprender novas tecnologias, desafiar-me e contribuir para a sociedade.
 
-My email is: g.yujinak@gmail.com
+Fique à vontade para me contatar e olhar meus projetos! 😉
+Email - g.yujinak@gmail.com
+Github - https://github.com/yujinak
 
-Feel free to look around this profile! 🔍😊
+## English
+👋 Hi! 
+My name is **Yuji**! I'm a Junior FullStack Developer in training at EBAC and currently pursuing a degree in Data Science. I use JavaScript, HTML, CSS, TypeScript, React, Python, and other tools to create and enhance applications, with a focus on web applications.
 
+I'm studying Data Science at Descomplica Digital College, where I learn to analyze, visualize, and interpret data from various sources and sectors.
+
+My goal is to combine my web development skills with my knowledge of data science to create innovative and efficient solutions to real-world problems.
+
+I also hold a degree in Architecture and Urbanism from PUCPR, and I have experience in sustainable construction projects, architectural competitions, and training workshops.
+
+I am fluent in Portuguese, English, and Spanish, and I am certified in Japanese, with experience in overseas exchanges in Sucre (Bolivia) and Okinawa (Japan). I am passionate about learning new technologies, challenging myself, and contributing to society.
+
+Feel free to contact me and look around this profile! 😉
+Email - g.yujinak@gmail.com
+Github - https://github.com/yujinak
 
 
 <!---
