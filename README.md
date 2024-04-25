@@ -30,6 +30,12 @@ Feel free to contact me and look around this profile! 😉
 Email - g.yujinak@gmail.com
 Github - https://github.com/yujinak
 
+<div align="center">
+  <a href="https://github.com/yujinak">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yujinak&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujinak&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 
 <!---
 yujinak/yujinak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
