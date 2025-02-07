@@ -1,6 +1,6 @@
 ## Português
 👋 Olá! 
-Eu sou o **Yuji**! Desenvolvedor FullStack Jr em formação pela EBAC e realizando graduação em Ciência de Dados. Utilizo JavaScript, HTML, CSS, TypeScript, React, Python e outras ferramentas para criar e aprimorar aplicativos, com foco em aplicações Web. 
+Eu sou o **Yuji**! Desenvolvedor FullStack Jr formado pela EBAC. Utilizo JavaScript, HTML, CSS, TypeScript, React, Python e outras ferramentas para criar e aprimorar aplicativos, com foco em aplicações Web. 
 
 Estou cursando o Ciência de Dados na Descomplica Faculdade Digital, onde aprendo a analisar, visualizar e interpretar dados de diversas fontes e setores. 
 
@@ -16,7 +16,7 @@ Github - https://github.com/yujinak
 
 ## English
 👋 Hi! 
-My name is **Yuji**! I'm a Junior FullStack Developer in training at EBAC and currently pursuing a degree in Data Science. I use JavaScript, HTML, CSS, TypeScript, React, Python, and other tools to create and enhance applications, with a focus on web applications.
+My name is **Yuji**! I'm a Junior FullStack Developer. I use JavaScript, HTML, CSS, TypeScript, React, Python, and other tools to create and enhance applications, with a focus on web applications.
 
 I'm studying Data Science at Descomplica Digital College, where I learn to analyze, visualize, and interpret data from various sources and sectors.
 
